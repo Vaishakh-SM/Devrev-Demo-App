@@ -1,0 +1,1586 @@
+[
+    {
+        "key": {
+            "eventName": "Trial Event"
+        },
+        "value": {
+            "eventDesc": "Just a trial",
+            "timestamp": "0000"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Trial Event"
+        },
+        "value": {
+            "eventDesc": "Just a trial",
+            "timestamp": "0010"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Trial Event"
+        },
+        "value": {
+            "eventDesc": "Just a trial",
+            "timestamp": "0016"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Trial Event"
+        },
+        "value": {
+            "eventDesc": "Just a trial",
+            "timestamp": "0100"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708809522800,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708846519899,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708846535441,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_close",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708846567138,
+            "eventValue": "",
+            "eventDescription": "User closes the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708846592307,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708846595892,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_close",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708846596671,
+            "eventValue": "",
+            "eventDescription": "User closes the popup"
+        }
+    },
+    {
+        "key": {
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708847140944,
+            "eventValue": ""
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708847148946,
+            "eventValue": ""
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708847149944,
+            "eventValue": "",
+            "eventDescription": "Home_page_enter"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708847154945,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708809346920_lhe2f1qi0os"
+        },
+        "value": {
+            "timestamp": 1708847155948,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847761612,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847761614,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Other_org_click",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847787924,
+            "eventValue": "",
+            "eventDescription": "Clicking on the form field to manually type in the organisation name, because it was not present in the dropdown list. Ideally it should be present in the dropdown"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847793627,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847794440,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847805724,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847805727,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847806898,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847808050,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847761614_4aikj6m7t7y"
+        },
+        "value": {
+            "timestamp": 1708847808053,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847814640,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847814643,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847824518,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847827665,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847827668,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_played",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847833341,
+            "eventValue": "",
+            "eventDescription": "Played the youtube video on the homescreen. Ideally the users should watch it to the end and not pause it"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_paused",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847837438,
+            "eventValue": "",
+            "eventDescription": "Paused the youtube video on the homescreen. Ideally the users should have watched it to the end without pausing. Watching to the end is a sign of good engagement and video content."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847839404,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847839408,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847840567,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847840681,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847841354,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_close",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847843382,
+            "eventValue": "",
+            "eventDescription": "User closes the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847845133,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847845134,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Other_org_click",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847853067,
+            "eventValue": "",
+            "eventDescription": "Clicking on the form field to manually type in the organisation name, because it was not present in the dropdown list. Ideally it should be present in the dropdown"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847857818,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847858660,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847858945,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": "session_1708847814643_h51wxltulhh"
+        },
+        "value": {
+            "timestamp": 1708847859372,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847867793,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847867795_88cvrvjxc2q"
+        },
+        "value": {
+            "timestamp": 1708847867796,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847876674,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847876677,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847877849,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847878381,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_close",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847880126,
+            "eventValue": "",
+            "eventDescription": "User closes the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847885124,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847885128,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_played",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847889150,
+            "eventValue": "",
+            "eventDescription": "Played the youtube video on the homescreen. Ideally the users should watch it to the end and not pause it"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_paused",
+            "userId": "session_1708847876677_l1qqe53gpao"
+        },
+        "value": {
+            "timestamp": 1708847892923,
+            "eventValue": "",
+            "eventDescription": "Paused the youtube video on the homescreen. Ideally the users should have watched it to the end without pausing. Watching to the end is a sign of good engagement and video content."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847897950,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847897952_0laql4rjoxh"
+        },
+        "value": {
+            "timestamp": 1708847897953,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847903730,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847905252,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847905254_x3scvqk6z1h"
+        },
+        "value": {
+            "timestamp": 1708847905254,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708847905254_x3scvqk6z1h"
+        },
+        "value": {
+            "timestamp": 1708847906435,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847905254_x3scvqk6z1h"
+        },
+        "value": {
+            "timestamp": 1708847906594,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847905254_x3scvqk6z1h"
+        },
+        "value": {
+            "timestamp": 1708847906897,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847905254_x3scvqk6z1h"
+        },
+        "value": {
+            "timestamp": 1708847907942,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847905254_x3scvqk6z1h"
+        },
+        "value": {
+            "timestamp": 1708847907948,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847918776,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847918778_h3sj8mf72gs"
+        },
+        "value": {
+            "timestamp": 1708847918779,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Other_org_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847924918,
+            "eventValue": "",
+            "eventDescription": "Clicking on the form field to manually type in the organisation name, because it was not present in the dropdown list. Ideally it should be present in the dropdown"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847927357,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847927533,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847927958,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847928207,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847928612,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847928869,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847936371,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847936373_zcqdu0298k"
+        },
+        "value": {
+            "timestamp": 1708847936374,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847939293,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847939294_l7crjt8gzyi"
+        },
+        "value": {
+            "timestamp": 1708847939298,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708847939294_l7crjt8gzyi"
+        },
+        "value": {
+            "timestamp": 1708847940476,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847939294_l7crjt8gzyi"
+        },
+        "value": {
+            "timestamp": 1708847940619,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847939294_l7crjt8gzyi"
+        },
+        "value": {
+            "timestamp": 1708847941212,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847950661,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847950663_clipfmwsxg8"
+        },
+        "value": {
+            "timestamp": 1708847950664,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847955575,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847956363,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847957233,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_played",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847960235,
+            "eventValue": "",
+            "eventDescription": "Played the youtube video on the homescreen. Ideally the users should watch it to the end and not pause it"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_paused",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847965225,
+            "eventValue": "",
+            "eventDescription": "Paused the youtube video on the homescreen. Ideally the users should have watched it to the end without pausing. Watching to the end is a sign of good engagement and video content."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847967131,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847967135,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847968301,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847968416,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847968670,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_close",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847969430,
+            "eventValue": "",
+            "eventDescription": "User closes the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847970940,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847970941,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847972809,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847972810,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847973974,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847974193,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_close",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847975040,
+            "eventValue": "",
+            "eventDescription": "User closes the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847975943,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847967131_fn8nnjp046r"
+        },
+        "value": {
+            "timestamp": 1708847975944,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847980067,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708847980071_8v33q9cjjzx"
+        },
+        "value": {
+            "timestamp": 1708847980071,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847988195,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847988648,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_played",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847991073,
+            "eventValue": "",
+            "eventDescription": "Played the youtube video on the homescreen. Ideally the users should watch it to the end and not pause it"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_paused",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708847996485,
+            "eventValue": "",
+            "eventDescription": "Paused the youtube video on the homescreen. Ideally the users should have watched it to the end without pausing. Watching to the end is a sign of good engagement and video content."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848010272,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848010275_jbjnnzwuatn"
+        },
+        "value": {
+            "timestamp": 1708848010275,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848014825,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848014981,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848016797,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848019799,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708848019800_4q0s2fyhna5"
+        },
+        "value": {
+            "timestamp": 1708848019804,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708848019800_4q0s2fyhna5"
+        },
+        "value": {
+            "timestamp": 1708848020959,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848019800_4q0s2fyhna5"
+        },
+        "value": {
+            "timestamp": 1708848021106,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848019800_4q0s2fyhna5"
+        },
+        "value": {
+            "timestamp": 1708848021107,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848025115,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848025118_jnl53amxvho"
+        },
+        "value": {
+            "timestamp": 1708848025118,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_played",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848028537,
+            "eventValue": "",
+            "eventDescription": "Played the youtube video on the homescreen. Ideally the users should watch it to the end and not pause it"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Youtube_video_paused",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848036776,
+            "eventValue": "",
+            "eventDescription": "Paused the youtube video on the homescreen. Ideally the users should have watched it to the end without pausing. Watching to the end is a sign of good engagement and video content."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848040798,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708848040799_txj2kayw0ik"
+        },
+        "value": {
+            "timestamp": 1708848040803,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848040799_txj2kayw0ik"
+        },
+        "value": {
+            "timestamp": 1708848042008,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848040799_txj2kayw0ik"
+        },
+        "value": {
+            "timestamp": 1708848042009,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848046888,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848046891_wu076to419p"
+        },
+        "value": {
+            "timestamp": 1708848046892,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848052310,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848052541,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848053389,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Waitlist_button_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848054037,
+            "eventValue": "",
+            "eventDescription": "Clicked the button on the front of the home page which is meant for joining a waitlist. Ideally this is clicked only once"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Other_org_click",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848060956,
+            "eventValue": "",
+            "eventDescription": "Clicking on the form field to manually type in the organisation name, because it was not present in the dropdown list. Ideally it should be present in the dropdown"
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": null
+        },
+        "value": {
+            "timestamp": 1708848064029,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "About_page_enter",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848064034,
+            "eventValue": "",
+            "eventDescription": "User enters the home page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_appears",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848065193,
+            "eventValue": "",
+            "eventDescription": "A popup appears in the About page."
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848065267,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848065475,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Outside_popup_click",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848065764,
+            "eventValue": "",
+            "eventDescription": "User clicks outside the popup in an attempt to close the popup. These clicks may indicate that the user is annoyed by the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Popup_close",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848066503,
+            "eventValue": "",
+            "eventDescription": "User closes the popup"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848068514,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    },
+    {
+        "key": {
+            "eventName": "Home_page_enter",
+            "userId": "session_1708848064030_or82at8o1yo"
+        },
+        "value": {
+            "timestamp": 1708848068515,
+            "eventValue": "",
+            "eventDescription": "User enters the home page, possible leaving the about page"
+        }
+    }
+]
